@@ -1,1 +1,1 @@
-Using autoencoder for passive investing
+Using deep learning (autoencoder) for passive investing
